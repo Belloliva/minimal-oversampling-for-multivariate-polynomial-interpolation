@@ -24,7 +24,7 @@ The files implements the concepts of mutliindex, multivariate polynomial, lower 
 - mpa_stdlib.h /.c : few functions for inserting in ordered array   
 - mpa_multi_index.h /.c: multiindex notation 
 - mpa_monotone_graph.h /.c: datastructure for lower set(also called downward closed) 
-- mpa_polynomial.h /.c: usual polynomial 
+- mpa_polynomial.h /.c: usual polynomials
 - mpa_function.h : 
 - mpa_sampling.h /.c: sampling for weighted least squares, the algorithm of the paper included  
 - mpa_linalg.h /.c: few simple linear algebra functions 
