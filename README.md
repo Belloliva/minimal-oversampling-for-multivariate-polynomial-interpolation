@@ -19,7 +19,7 @@ gcc -L/usr/local/lib *.o -lgsl -lgslcblas
 Structure of the code: the files are part of a multivariate polynomial approximation (mpa) library. 
 The files implements the concepts of mutliindex, multivariate polynomial, lower set, etc 
 
-- mpa_defines.h : simple macos
+- mpa_defines.h : simple macros
 - mpa_combinatorics.h /.c : simple combinatorics functions 
 - mpa_stdlib.h /.c : few functions for inserting in ordered array   
 - mpa_multi_index.h /.c: multiindex notation 
