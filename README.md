@@ -5,7 +5,7 @@ Randomized least-squares with minimal oversampling and interpolation in general 
 
 To appear in SIAM Journal on Numerical Analysis (SINUM)
 
-The code requires gnu scientific library (gsl). 
+The code requires to have gnu scientific library (gsl) installed. 
 
 To compile and run (lunix/macos): 
 
