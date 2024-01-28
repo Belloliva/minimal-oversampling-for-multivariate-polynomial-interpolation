@@ -28,7 +28,7 @@ The files implements the concepts of mutliindex, multivariate polynomial, lower 
 - mpa_function.h : 
 - mpa_sampling.h /.c: sampling for weighted least squares, the algorithms of the paper included  
 - mpa_linalg.h /.c: few simple linear algebra functions 
-- Least_squares_solver.h/.c: solver for computing the least square projection 
+- Least_squares_solver.h/.c: solver for computing the least squares projection 
 - main.c
 
 
