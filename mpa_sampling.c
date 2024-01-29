@@ -150,7 +150,7 @@ double squared_L_sample_1d (size_t k)
     return x;
 }
 
-// sample from density |L_nu(x)|^2 prod_j (dx_j/2) for nu a multi-index in dimension nu
+// sample from density |L_nu(x)|^2 prod_j (dx_j/2) for nu a multi-index in dimension d
 
 double* squared_L_sample_multi_d (size_t dim,mpa_multi_index* nu)
 {
